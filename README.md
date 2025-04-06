@@ -1,5 +1,5 @@
-## Hi, I’m Jorge—
+## Hey, I’m Jorge—
 
-### I’m a software developer, writer & photographer based in Canada 🇨🇦
+### I’m a [developer](https://www.jorge-perez.dev/), [writer](https://www.jperez.ca/) & [photographer](https://www.instagram.com/lensgrime/) based in Canada 🇨🇦
 
-Exploring where creativity meets technology, these are my favourite open-source personal projects. Feel free to dive in, play with the code, improve it, and join in on the software adventure!
+I'm just having fun exploring where creativity meets technology. These open-source projects are my way of learning and experimenting with code. Feel free to take a look, play around with the code, fork it, use it, and join in on the journey!
